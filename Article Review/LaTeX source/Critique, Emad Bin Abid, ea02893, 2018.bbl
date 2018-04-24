@@ -1,0 +1,26 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Zalasiewicz%
+}{%
+Zalasiewicz%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+quote}
+\APACinsertmetastar {%
+quote}%
+\begin{APACrefauthors}%
+Zalasiewicz, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A History in Layers} {A history in layers}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Scientific American} {Scientific american}\ (\BPGS\
+  104--111).
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
